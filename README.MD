@@ -20,11 +20,11 @@ dos vingadores e criar pequenas equipes.
 
 ## Requisitos da missão:
 
-- A ferramenta precisa mostrar uma listagem de heróis, mostrando as características, habilidades, poderes.
+- A ferramenta precisa mostrar uma listagem de heróis, mostrando: nome, descricao e fotos.
 
 - O diretor gostaria de ao selecionar o herói poder salvar em uma tabela de possíveis candidatos.
 
-- A partir da seleção, montar as equipes diferenciando entre: VINGADORES e EQUIPE.
+- A partir dos possíveis candidatos, montar as equipes diferenciando entre: VINGADORES e EQUIPE.
 
 ## Stack Utilizada
 **Fonte de Dados** : [API Marvel](https://developer.marvel.com/)
